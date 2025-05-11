@@ -36,5 +36,4 @@ To build a Java-based application capable of recognizing and classifying vehicle
 
 ---
 
-## 📂 Project Structure
 
